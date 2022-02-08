@@ -1,0 +1,11 @@
+BOMBERMAN
+
+-Mode 1 player
+-Mode 2,3,4 player
+-Ecran splitable si map trop grande
+-Plusieur type de bombe
+-Pluesieur type de brique 
+-pouvoir 
+-Menue
+-Ecran d'acceuille
+
